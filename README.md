@@ -24,6 +24,6 @@ Interactions with the bot:
 <img width="621" alt="Screen Shot 2021-10-03 at 3 30 46 PM" src="https://user-images.githubusercontent.com/84158176/135768734-dd76cf95-5e6f-481b-ba9c-9f1586cc05fe.png">
 
 
-Response when bot doesn't understand:
+Response when the bot doesn't understand:
 
 <img width="619" alt="Screen Shot 2021-10-03 at 3 46 15 PM" src="https://user-images.githubusercontent.com/84158176/135769163-4ec46600-a864-44d7-93ec-1bf32460d93d.png">
