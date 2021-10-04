@@ -17,14 +17,14 @@ public class Bot extends JFrame {
 			JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
 
 	public Bot() {
-		super("Chat Bot"); // Name of the window
-		setSize(625, 400); // Set size of Window
-		setResizable(false); // The window size can't be changed
-		setDefaultCloseOperation(EXIT_ON_CLOSE);// When the window exit button is clicked, the window closes
-		Chatarea.setEditable(true);// Can't edit the text in the window
-		frame.add(scroll); // Allows scrolling on window
-		frame.add(Chatbox); // Adds the Chat box to the window
-		frame.setBackground(new Color(80, 80, 80)); // Sets color to gray
+		super("Chat Bot");
+		setSize(625, 400); 
+		setResizable(false); 
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		Chatarea.setEditable(true);
+		frame.add(scroll); 
+		frame.add(Chatbox); 
+		frame.setBackground(new Color(80, 80, 80)); 
 		add(frame);
 		setVisible(true);
 
