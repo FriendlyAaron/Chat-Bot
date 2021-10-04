@@ -4,13 +4,12 @@ This is a Chat Bot that you're able to interact and chat with.
 ### Setup
 ###### Eclipse App:
 1. Download the latest version of [Eclipse](https://www.eclipse.org/)
-2. Download [JDK](https://www.oracle.com/java/technologies/downloads/) for your OS
-3. Click *apply*
-4. Submit and fill out all the info on the form
-5. Wait to be granted access
-6. Click *developer portal*
-7. Click *Create project*
-8. Note the outputted *API key*, *API secret*, *Access token* and *Access token secret*
+2. Install and setup Eclipse
+
+######  Installtion
+1. Download [JDK](https://www.oracle.com/java/technologies/downloads/) for your OS and set it up
+2. Download the Chat_Bot folder
+3.     
 
 ## Gallery:
 How the UI looks like:
