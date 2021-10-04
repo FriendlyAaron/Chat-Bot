@@ -9,7 +9,11 @@ This is a Chat Bot that you're able to interact and chat with.
 ######  Installtion
 1. Download [JDK](https://www.oracle.com/java/technologies/downloads/) for your OS and set it up
 2. Download the Chat_Bot folder
-3.     
+3. On the left panel of Eclpise right click on the panel and click import
+4. Go to general and projects from folders or archive
+5. Click on Directory and set it to the Chat_Bot folder you downloaded and click finish
+6. Open up the Chat_Bot folder then open the src folder then open the default package and double click on the bot.java file.
+7. Click on the green button on the toolbar to run the java file.
 
 ## Gallery:
 How the UI looks like:
