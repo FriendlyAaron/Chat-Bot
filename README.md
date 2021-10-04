@@ -6,7 +6,7 @@ This is a Chat Bot that you're able to interact and chat with.
 1. Download the latest version of [Eclipse](https://www.eclipse.org/)
 2. Install and setup Eclipse
 
-######  Installtion
+######  Installation
 1. Download [JDK](https://www.oracle.com/java/technologies/downloads/) for your OS and set it up
 2. Download the Chat_Bot folder
 3. On the left panel of Eclpise right click on the panel and click import
