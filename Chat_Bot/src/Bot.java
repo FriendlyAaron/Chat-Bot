@@ -87,8 +87,7 @@ public class Bot extends JFrame {
 				}
 
 				// What the bot is doing
-				if (gtext.contains("how its going") || gtext.contains("whats up") || gtext.contains("whats going on")
-						|| gtext.contains("whats happening") || gtext.contains("what are you doing")|| gtext.contains("hows it going") || gtext.contains("whats going on")) {
+				if (gtext.contains("how its going") || gtext.contains("whats up") || gtext.contains("whats going on")|| gtext.contains("whats happening") || gtext.contains("what are you doing")|| gtext.contains("what you doing")|| gtext.contains("hows it going") || gtext.contains("whats going on")) {
 					random = rand.nextInt(2);
 					if (random == 1) {
 						bot("Nothing much");
